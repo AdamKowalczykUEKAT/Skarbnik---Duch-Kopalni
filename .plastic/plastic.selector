@@ -1,0 +1,4 @@
+repository "Kopalnia@ZapisHorror@cloud"
+  path "/"
+    br "/main"
+    co "/main"
